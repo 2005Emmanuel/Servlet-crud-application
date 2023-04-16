@@ -1,0 +1,4 @@
+com\mycompany\servlet\crud\application\DB_connection.class
+com\mycompany\servlet\crud\application\crud_DB_utils.class
+com\mycompany\servlet\crud\application\View_Servlet.class
+com\mycompany\servlet\crud\application\Save.class
